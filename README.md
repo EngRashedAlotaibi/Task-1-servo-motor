@@ -10,7 +10,7 @@ Servo Motor
 Wires
 
 # Experiment Procedure:
-We start by connecting the battery to the Arduino Uno. After that we connect the servo motor's power wire to the 5V pin on the Arduino and then connect the signal wire to pin 9. Finally, connect the servo motor's ground wire to the GND pin on the Arduino.
+We start by connecting the servo motor's power wire to the 5V pin on the Arduino and then connect the signal wire to pin 9. Finally, connect the servo motor's ground wire to the GND pin on the Arduino.
 'I used the example code for Sweeping a Servo Motor in Arduino IDE.'
 
 
@@ -31,7 +31,7 @@ Wires
 
 # Experiment Procedure:
 
-We start by connecting the battery to the Arduino Uno. After that, we connect the servo motor's power wire to the 5V pin on the Arduino and then connect the signal wire to pin 9. Finally, connect the servo motor's ground wire to the GND pin on the Arduino. Then connect the middle pin of the potentiometer to the A0 pin on the Arduino and Connect one of the outer pins of the potentiometer to the 5V. Finally, Connect the other outer pin of the potentiometer to the GND 
+We start by connecting the servo motor's power wire to the 5V pin on the Arduino and then connect the signal wire to pin 9. Finally, connect the servo motor's ground wire to the GND pin on the Arduino. Then connect the middle pin of the potentiometer to the A0 pin on the Arduino and Connect one of the outer pins of the potentiometer to the 5V. Finally, Connect the other outer pin of the potentiometer to the GND 
 
 ![image](https://github.com/user-attachments/assets/483f4644-c3e6-415c-a708-f0a66b4d3dc3)
 
