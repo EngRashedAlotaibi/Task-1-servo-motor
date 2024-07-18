@@ -8,14 +8,14 @@ For accurate angular position control, servo motors are extensively utilized in 
 Arduino Uno
 Servo Motor
 Wires
-Battery
 
 # Experiment Procedure:
 We start by connecting the battery to the Arduino Uno. After that we connect the servo motor's power wire to the 5V pin on the Arduino and then connect the signal wire to pin 9. Finally, connect the servo motor's ground wire to the GND pin on the Arduino.
 'I used the example code for Sweeping a Servo Motor in Arduino IDE.'
 
 
-![image](https://github.com/user-attachments/assets/f3116995-ecb9-4a23-9cef-e4aa5a549a19)
+![image](https://github.com/user-attachments/assets/baf89ec8-b538-4877-b2c4-9a3e5580f6af)
+
 
 
 # Knob Servo Motor:
@@ -28,12 +28,12 @@ Potentiometer
 Arduino Uno
 Servo Motor
 Wires
-Battery
 
 # Experiment Procedure:
 
 We start by connecting the battery to the Arduino Uno. After that, we connect the servo motor's power wire to the 5V pin on the Arduino and then connect the signal wire to pin 9. Finally, connect the servo motor's ground wire to the GND pin on the Arduino. Then connect the middle pin of the potentiometer to the A0 pin on the Arduino and Connect one of the outer pins of the potentiometer to the 5V. Finally, Connect the other outer pin of the potentiometer to the GND 
 
-![image](https://github.com/user-attachments/assets/b929ecc3-9cc8-48b4-895d-e62af708ceae)
+![image](https://github.com/user-attachments/assets/483f4644-c3e6-415c-a708-f0a66b4d3dc3)
+
 
 
