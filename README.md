@@ -1,7 +1,7 @@
 # Task-1-servo-motor
 # Sweep Servo Motor:
 
-For accurate angular position control, servo motors are extensively utilized in robotics and automation.  It is made up of a motor and a position feedback sensor. To identify the intended position, a servo motor typically uses a  (PWM) signal.
+For accurate angular position control, servo motors are used.  It is made up of a motor and a position feedback sensor. To know the needed position, a servo motor typically uses a (PWM) signal.
 
 # Equipment list and experiment set-up :
 
