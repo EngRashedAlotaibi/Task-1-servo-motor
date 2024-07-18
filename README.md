@@ -34,5 +34,6 @@ Battery
 
 We start by connecting the battery to the Arduino Uno. After that, we connect the servo motor's power wire to the 5V pin on the Arduino and then connect the signal wire to pin 9. Finally, connect the servo motor's ground wire to the GND pin on the Arduino. Then connect the middle pin of the potentiometer to the A0 pin on the Arduino and Connect one of the outer pins of the potentiometer to the 5V. Finally, Connect the other outer pin of the potentiometer to the GND 
 
-![image](https://github.com/user-attachments/assets/5861cd55-83c3-4e97-b7b5-27d0dfcc7141)
+![image](https://github.com/user-attachments/assets/b929ecc3-9cc8-48b4-895d-e62af708ceae)
+
 
